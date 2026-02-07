@@ -1,0 +1,27 @@
+# =========================
+# DATOS PESADOS (NO GITHUB)
+# =========================
+datos/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.xml
+*.xlsx
+*.csv
+*.pdf
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# =========================
+# SISTEMA
+# =========================
+.DS_Store
+Thumbs.db
